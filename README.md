@@ -1,6 +1,6 @@
-# pack_the_folder
+# pack__the__folder
 
-A simple Python library to pack the contents of a folder into a single file.
+A simple Python library to pack the contents of a folder into a single file. Particularly useful when you need to condense multiple text files (including source code) into a single file usable with LLMs that handle large context memories.
 
 ## Description
 
